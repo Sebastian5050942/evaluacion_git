@@ -18,6 +18,7 @@
 
 # Screenshots:
 
-- ![Imagen1](./Imagenes/Captura)
+- ! ![Mi Imagen]()
+
 -
 -! [Imagen1] (./Imagenes/c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 101945.png')
