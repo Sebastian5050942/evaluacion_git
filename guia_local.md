@@ -20,5 +20,5 @@
 
 - ! ![Mi Imagen](https://github.com/Sebastian5050942/evaluacion_git/blob/d98535e592621be769ed30d582293bcbdf009e7d/Imagenes/Captura%20de%20pantalla%202026-07-23%20101836.png)
 
-- ! ![Mi Imagen](https://github.com/Sebastian5050942/evaluacion_git/blob/d98535e592621be769ed30d582293bcbdf009e7d/Imagenes/Captura%20de%20pantalla%202026-07-23%20101836.png)
+- ! ![Mi Imagen](https://github.com/Sebastian5050942/evaluacion_git/blob/c4bb7b407edd7553725aef0c6350593baf7cc526/Imagenes/Captura%20de%20pantalla%202026-07-23%20101945.png)
 
