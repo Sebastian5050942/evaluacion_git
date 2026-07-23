@@ -18,4 +18,6 @@
 
 # Screenshots:
 
-- ! [Imagen1] (./'/c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 102011.png'/'/c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 101945.png'/'/c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 101836.png')
+- ! [Imagen1] (./'/c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 102011.png')
+-
+-! [Imagen1] (./c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 101945.png')
