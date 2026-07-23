@@ -18,4 +18,4 @@ Un repositorio remoto es un espacio alojado en la nube que permite almacenar, ad
 Para conectar un proyecto creado en Git Bash con un repositorio remoto en GitHub se utiliza el comando:
 
 ```bash
-git remote add origin URL_DEL_REPOSITORIO'''
+git remote add origin URL_DEL_REPOSITORIO
