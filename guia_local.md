@@ -20,5 +20,5 @@
 
 - ! ![Mi Imagen](https://github.com/Sebastian5050942/evaluacion_git/blob/d98535e592621be769ed30d582293bcbdf009e7d/Imagenes/Captura%20de%20pantalla%202026-07-23%20101836.png)
 
--
--! [Imagen1] (./Imagenes/c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 101945.png')
+- ! ![Mi Imagen](https://github.com/Sebastian5050942/evaluacion_git/blob/d98535e592621be769ed30d582293bcbdf009e7d/Imagenes/Captura%20de%20pantalla%202026-07-23%20101836.png)
+
