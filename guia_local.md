@@ -18,6 +18,6 @@
 
 # Screenshots:
 
-- ! [Imagen1] (./ Imagenes / https://github.com/Sebastian5050942/evaluacion_git/blob/86773bf8135c462348ba7ef38aa619ca07970cd2/Imagenes/Captura%20de%20pantalla%202026-07-23%20101836.png)
+- ! [Imagen1] (./ Imagenes / Imagenes/Captura de pantalla 2026-07-23 101836.png)
 -
 -! [Imagen1] (./c/Users/B09S202est/Documents/Esemar_gtcj/evaluacion_git/Imagenes/Captura de pantalla 2026-07-23 101945.png')
